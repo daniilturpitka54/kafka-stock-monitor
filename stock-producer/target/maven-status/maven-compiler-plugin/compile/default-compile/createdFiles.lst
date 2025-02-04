@@ -1,0 +1,3 @@
+com/stock/kafka/StockPriceConsumer.class
+com/stock/kafka/StockPriceProducer.class
+com/stock/kafka/App.class
